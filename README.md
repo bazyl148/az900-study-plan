@@ -29,7 +29,7 @@
 **Distinct Activities:**
 - **Concept Mapping:** Diagram IaaS, PaaS, SaaS, and deployment models with real-world examples.
 - **Benefits Debate:** Teams debate CapEx vs. OpEx and present business migration scenarios.
-- **Azure Free Trial Setup:** Register for a free Azure account, create a resource group, and explore the portal.
+- **Azure Free Trial Setup:** Register for a [free Azure account](https://azure.microsoft.com/en-ca/Free), create a resource group, and explore the portal.
 - **Scenario Practice:** Given a business need, select the best service and deployment model.
 - **Quick Quiz:** Take the [Cloud Concepts Knowledge Check](https://learn.microsoft.com/training/modules/describe-cloud-compute/7-knowledge-check/)
 
