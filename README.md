@@ -26,7 +26,7 @@ Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured,
 - **Benefits Debate:** Teams debate CapEx vs. OpEx and present business migration scenarios.
 - **Azure Free Trial Setup:** Register for a free Azure account, create a resource group, and explore the portal.
 - **Scenario Practice:** Given a business need, select the best service and deployment model.
-- **Quick Quiz:** Take the [Cloud Concepts Knowledge Check](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/#knowledge-check)
+- **Quick Quiz:** Take the [Cloud Concepts Knowledge Check](https://learn.microsoft.com/training/modules/describe-cloud-compute/7-knowledge-check/)
 
 ---
 
@@ -34,10 +34,9 @@ Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured,
 
 **Official Modules:**
 - [Describe core Azure architectural components](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/)
-- [Describe core Azure services and products](https://learn.microsoft.com/en-us/training/modules/describe-core-azure-services/)
+- [Describe features and tools for managing and deploying Azure resources](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-manage-deploy-azure-resources/)
 - [Describe Azure compute and networking services](https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/)
 - [Describe Azure storage services](https://learn.microsoft.com/en-us/training/modules/describe-azure-storage-services/)
-- [Describe Azure database and analytics services](https://learn.microsoft.com/en-us/training/modules/describe-azure-database-analytics-services/)
 
 **Technical Focus:**
 - **Azure Regions & Availability Zones:** Understand physical and logical resource organization for resiliency.
@@ -67,8 +66,8 @@ Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured,
 
 **Official Modules:**
 - [Describe Azure identity services](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/)
-- [Describe Azure governance features](https://learn.microsoft.com/en-us/training/modules/describe-azure-governance-features/)
-- [Describe Azure management and monitoring tools](https://learn.microsoft.com/en-us/training/modules/describe-azure-management-monitoring-tools/)
+- [Describe Azure governance features](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/)
+- [Describe Azure monitoring tools](https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/)
 
 **Technical Focus:**
 - **Azure Active Directory (Entra ID):** User, group, and application management; SSO; MFA.
@@ -117,11 +116,10 @@ Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured,
 
 - Review the [Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
 - Try the [Exam Sandbox](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#exam-sandbox)
+- Use the official [Practise Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
 - Schedule your exam via your [Microsoft Learn profile](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#your-microsoft-learn-profile)
 
 ---
 
 **References:**  
 [Microsoft AZ-900 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
-
-##Test
