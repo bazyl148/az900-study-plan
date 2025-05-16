@@ -1,5 +1,5 @@
-# AZ-900 Weekly Study Plan
-##Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured, activity-rich, and technically detailed plan.  
+# Weekly Study Plan : AZ-900 Microsoft Azure Fundamentals 
+## Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured, activity-rich, and technically detailed plan.  
 **Official Study Guide:** [Microsoft AZ-900 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
 ---
