@@ -1,6 +1,5 @@
-# AZ-900 Weekly Structure with Distinct Activities, Official Modules, and Technical Details
-
-Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured, activity-rich, and technically detailed plan.  
+# AZ-900 Weekly Study Plan
+##Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured, activity-rich, and technically detailed plan.  
 **Official Study Guide:** [Microsoft AZ-900 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
 ---
@@ -123,5 +122,3 @@ Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured,
 
 **References:**  
 [Microsoft AZ-900 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
-
-##Test
