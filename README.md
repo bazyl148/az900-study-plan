@@ -1,8 +1,14 @@
-# Weekly Study Plan : AZ-900 Microsoft Azure Fundamentals 
-## Prepare for the Microsoft Azure Fundamentals Exam (AZ-900) with this structured, activity-rich, and technically detailed plan.  
-**Official Study Guide:** [Microsoft AZ-900 Study Guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="80"/>
+
+## Study Plan : AZ-900 Microsoft Azure Fundamentals 
+#### Prepare for this exam with this structured, activity-rich, and technically detailed plan.  
+- Review the [skills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
+- Visit the official [study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
 
 ---
+
+<!--
+![Cloud Icon](https://img.icons8.com/ios-filled/100/000000/cloud.png) -->
 
 ## Week 1: Cloud Concepts
 
@@ -58,6 +64,7 @@
 - **Azure Services Bingo:** Identify icons and use cases for major Azure services.
 - **CLI/Portal Comparison:** Create a resource using both Azure Portal and Azure CLI.
 - **Video Recap:** Watch an official Azure overview video and summarize key takeaways.
+- **Example:** [Multilayered protection for Azure virtual machine access](/week%202/Multilayered-protection-azure-vm-architecture-diagram.svg).
 
 ---
 
@@ -113,7 +120,7 @@
 
 ## Final Steps
 
-- Review the [Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
+- Reasses your knowledge on the [Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
 - Try the [Exam Sandbox](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#exam-sandbox)
 - Use the official [Practise Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
 - Schedule your exam via your [Microsoft Learn profile](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#your-microsoft-learn-profile)
