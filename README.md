@@ -64,7 +64,7 @@
 - **Azure Services Bingo:** Identify icons and use cases for major Azure services.
 - **CLI/Portal Comparison:** Create a resource using both Azure Portal and Azure CLI.
 - **Video Recap:** Watch an official Azure overview video and summarize key takeaways.
-- **Example:** [Multilayered protection for Azure virtual machine access](/week%202/Multilayered-protection-azure-vm-architecture-diagram.svg).
+- **Example:** [Multilayered protection for Azure virtual machine access](/Week%202/Multilayered-protection-azure-vm-architecture-diagram.svg).
 
 ---
 
