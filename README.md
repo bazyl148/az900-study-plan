@@ -1,6 +1,7 @@
-![mct-az900-yellow](https://img.shields.io/badge/mct-az900-yellow)![study_plan-red](https://img.shields.io/badge/study_plan-red)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="120"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="130"/>
+
+![mct-az900-yellow](https://img.shields.io/badge/mct-az900-yellow)![study_plan-red](https://img.shields.io/badge/study_plan-red)
 
 ## Study Plan : AZ-900 Microsoft Azure Fundamentals 
 #### Prepare for this exam with this structured, activity-rich, and technically detailed plan.  
