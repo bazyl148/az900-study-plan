@@ -15,7 +15,7 @@
 
 ## Week 1: Cloud Concepts
 
-<img src="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/images/azure-ad.png" width="550" />
+<img src="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/images/azure-ad.png" alt="Integrate on-premises Active Directory domains with Microsoft Entra ID" width="550" />
 
 **Official Modules:**
 - [Describe cloud computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/)
@@ -71,7 +71,7 @@
 - **Scenario Challenge:** Design a multi-tier web app using App Service, Storage, and SQL Database.
 - **CLI/Portal Comparison:** Create a resource using both Azure Portal and Azure CLI.
 - **Video Recap:** Watch an official Azure overview video and summarize key takeaways.
-- **Example VM setup:** [Multilayered protection for Azure virtual machine access](/Week%202/Multilayered-protection-azure-vm-architecture-diagram.svg).
+- **Example VM setup:** [Multilayered protection for Azure virtual machine access](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/multilayered-protection-azure-vm-architecture-diagram.svg).
 
 ---
 
