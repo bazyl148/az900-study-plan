@@ -1,5 +1,4 @@
-![mct-az900-yellow](https://img.shields.io/badge/mct-az900-yellow)
-![study_plan-red](https://img.shields.io/badge/study_plan-red)
+![mct-az900-yellow](https://img.shields.io/badge/mct-az900-yellow)![study_plan-red](https://img.shields.io/badge/study_plan-red)
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="120"/>
 
@@ -124,7 +123,8 @@
 
 ## Final Reviews
 
-- Reasses your knowledge on the [Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
+- Reasses your knowledge on the [skills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
+- Review the [exam policy](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
 - Try the [Exam Sandbox](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#exam-sandbox)
 - Use the official [Practise Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
 - Schedule your exam via your [Microsoft Learn profile](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#your-microsoft-learn-profile)
