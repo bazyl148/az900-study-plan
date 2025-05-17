@@ -5,8 +5,8 @@
 
 ## Study Plan : AZ-900 Microsoft Azure Fundamentals 
 #### Prepare for this exam with this structured, activity-rich, and technically detailed plan.  
-- Review the [skills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
-- Visit the official [study guide](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900)
+- Review the latest [skills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#skills-measured-as-of-january-23-2024)
+- Visit the official [learning path](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
 
 ---
 
@@ -90,6 +90,7 @@
 
 **Distinct Activities:**
 - **Lab:** Configure RBAC for a resource group, create a custom role, and test access.
+- **Exercise:** [Configure a resource lock](https://learn.microsoft.com/en-ca/training/modules/describe-features-tools-azure-for-governance-compliance/5-exercise-configure-resource-lock)
 - **Policy Workshop:** Implement an “Allowed Locations” policy and audit compliance.
 - **Security Simulation:** Respond to a simulated security incident using Defender for Cloud recommendations.
 - **Trust Center Exploration:** Research a compliance certification in the [Microsoft Trust Center](https://servicetrust.microsoft.com/) and present findings.
@@ -124,8 +125,8 @@
 
 ## Final Reviews
 
-- Reasses your knowledge on the [skills measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
-- Review the [exam policy](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
+- Reasses your knowledge on the [Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
+- Review the [Exam Policy](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
 - Try the [Exam Sandbox](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#exam-sandbox)
 - Use the official [Practise Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/practice/assessment?assessment-type=practice&assessmentId=23&practice-assessment-type=certification)
 - Schedule your exam via your [Microsoft Learn profile](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#your-microsoft-learn-profile)
