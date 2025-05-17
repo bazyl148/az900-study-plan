@@ -28,7 +28,7 @@
 
 **Distinct Activities:**
 - **Concept Mapping:** Diagram IaaS, PaaS, SaaS, and deployment models with real-world examples.
-- **Benefits Debate:** Teams debate CapEx vs. OpEx and present business migration scenarios.
+- **Benefits Debate:** Teams debate and present business migration scenarios. ie. Cost savings opportunities.
 - **Azure Free Trial Setup:** Register for a [free Azure account](https://azure.microsoft.com/en-ca/Free), create a resource group, and explore the portal.
 - **Scenario Practice:** Given a business need, select the best service and deployment model.
 - **Quick Quiz:** Take the [Cloud Concepts Knowledge Check](https://learn.microsoft.com/training/modules/describe-cloud-compute/7-knowledge-check/)
@@ -59,12 +59,12 @@
   - Azure SQL Database, Cosmos DB, Azure Database for MySQL/PostgreSQL, Synapse Analytics.
 
 **Distinct Activities:**
+- **Exercise:** [Create a storage blob](https://learn.microsoft.com/en-ca/training/modules/describe-azure-storage-services/5-exercise-create-storage-blob/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services)
 - **Lab:** Deploy a Windows VM, configure NSG rules, and connect via RDP.
 - **Scenario Challenge:** Design a multi-tier web app using App Service, Storage, and SQL Database.
-- **Azure Services Bingo:** Identify icons and use cases for major Azure services.
 - **CLI/Portal Comparison:** Create a resource using both Azure Portal and Azure CLI.
 - **Video Recap:** Watch an official Azure overview video and summarize key takeaways.
-- **Example:** [Multilayered protection for Azure virtual machine access](/Week%202/Multilayered-protection-azure-vm-architecture-diagram.svg).
+- **Example VM setup:** [Multilayered protection for Azure virtual machine access](/Week%202/Multilayered-protection-azure-vm-architecture-diagram.svg).
 
 ---
 
