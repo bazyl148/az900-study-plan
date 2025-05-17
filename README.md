@@ -1,3 +1,6 @@
+![mct-az900-yellow](https://img.shields.io/badge/mct-az900-yellow)
+![study_plan-red](https://img.shields.io/badge/study_plan-red)
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="80"/>
 
 ## Study Plan : AZ-900 Microsoft Azure Fundamentals 
@@ -88,9 +91,10 @@
 **Distinct Activities:**
 - **Lab:** Configure RBAC for a resource group, create a custom role, and test access.
 - **Policy Workshop:** Implement an “Allowed Locations” policy and audit compliance.
-- **Security Simulation:** Respond to a simulated security incident using Security Center recommendations.
+- **Security Simulation:** Respond to a simulated security incident using Defender for Cloud recommendations.
 - **Trust Center Exploration:** Research a compliance certification in the [Microsoft Trust Center](https://servicetrust.microsoft.com/) and present findings.
 - **Monitoring Demo:** Set up basic monitoring/alerts with Azure Monitor and Log Analytics.
+- **Video course by John:** [Functionality of Conditional Access, MFA and SSO ](https://youtu.be/DFwERh9Xxk0?si=eX3BLgAgfH9J0WBm)
 
 ---
 
@@ -114,11 +118,11 @@
 - **Case Study:** Analyze a sample Azure bill and recommend optimizations (e.g., reserved instances, right-sizing).
 - **Mock Exam:** Take a full-length [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#take-a-free-practice-assessment) and review rationale for each answer.
 - **Exam Strategy Workshop:** Practice scenario-based and drag-and-drop questions, discuss time management, and review common pitfalls.
-- **Review Session:** Recap all domains, clarify doubts, and share last-minute tips.
+- **Review Session:** Recap all domains, clarify doubts, and last-minute tips.
 
 ---
 
-## Final Steps
+## Final Reviews
 
 - Reasses your knowledge on the [Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
 - Try the [Exam Sandbox](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#exam-sandbox)
