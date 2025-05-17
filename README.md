@@ -1,5 +1,5 @@
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="130"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="155"/>
 
 ![mct-az900-yellow](https://img.shields.io/badge/mct-az900-yellow)![study_plan-red](https://img.shields.io/badge/study_plan-red)
 
@@ -14,6 +14,8 @@
 ![Cloud Icon](https://img.icons8.com/ios-filled/100/000000/cloud.png) -->
 
 ## Week 1: Cloud Concepts
+
+<img src="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/images/azure-ad.png" width="650" />
 
 **Official Modules:**
 - [Describe cloud computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/)
@@ -39,6 +41,8 @@
 ---
 
 ## Week 2: Core Azure Services
+
+<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/images/compute-choices.svg" alt="Choose an Azure compute service" width="650" />
 
 **Official Modules:**
 - [Describe core Azure architectural components](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/)
@@ -73,6 +77,8 @@
 
 ## Week 3: Security, Identity, and Governance
 
+<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/security/images/security-overview.png" alt="Security Architecture Design" width="650"/>
+
 **Official Modules:**
 - [Describe Azure identity services](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/)
 - [Describe Azure governance features](https://learn.microsoft.com/en-us/training/modules/describe-features-tools-azure-for-governance-compliance/)
@@ -82,7 +88,7 @@
 - **Azure Active Directory (Entra ID):** User, group, and application management; SSO; MFA.
 - **Role-Based Access Control (RBAC):** Assign permissions at resource, group, or subscription level.
 - **Security Tools:**  
-  - Azure Security Center, Defender for Cloud, Key Vault for secrets.
+  - Sentinel, Defender for Cloud, Azure Key Vault.
 - **Governance:**  
   - Azure Policy, Blueprints, Resource Locks, Cost Management.
 - **Compliance:**  
@@ -100,6 +106,8 @@
 ---
 
 ## Week 4: Cost Management & Exam Prep
+
+<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/media/cost-management-allocation/tags.png" alt="Architectural approaches for cost management and allocation in a multitenant solution" width="650"/>
 
 **Official Modules:**
 - [Describe cost management in Azure](https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/)
