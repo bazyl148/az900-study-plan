@@ -1,5 +1,5 @@
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="130"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure Icon" width="145"/>
 
 ![mct-az900-yellow](https://img.shields.io/badge/mct-az900-yellow)![study_plan-red](https://img.shields.io/badge/study_plan-red)
 
@@ -15,7 +15,7 @@
 
 ## Week 1: Cloud Concepts
 
-<img src="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/images/azure-ad.png" alt="Integrate on-premises Active Directory domains with Microsoft Entra ID" width="550" />
+<img src="https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/identity/images/azure-ad.png" alt="Integrate on-premises Active Directory domains with Microsoft Entra ID" width="650" />
 
 **Official Modules:**
 - [Describe cloud computing](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/)
@@ -42,7 +42,7 @@
 
 ## Week 2: Core Azure Services
 
-<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/images/compute-choices.svg" alt="Choose an Azure compute service" width="550" />
+<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/images/compute-choices.svg" alt="Choose an Azure compute service" width="650" />
 
 **Official Modules:**
 - [Describe core Azure architectural components](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/)
@@ -71,13 +71,12 @@
 - **Scenario Challenge:** Design a multi-tier web app using App Service, Storage, and SQL Database.
 - **CLI/Portal Comparison:** Create a resource using both Azure Portal and Azure CLI.
 - **Video Recap:** Watch an official Azure overview video and summarize key takeaways.
-- **Example VM setup:** [Multilayered protection for Azure virtual machine access](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/multilayered-protection-azure-vm-architecture-diagram.svg).
 
 ---
 
 ## Week 3: Security, Identity, and Governance
 
-<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/security/images/security-overview.png" alt="Security Architecture Design" width="550"/>
+<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/security/images/security-overview.png" alt="Security Architecture Design" width="650"/>
 
 **Official Modules:**
 - [Describe Azure identity services](https://learn.microsoft.com/en-us/training/modules/describe-azure-identity-access-security/)
@@ -107,7 +106,7 @@
 
 ## Week 4: Cost Management & Exam Prep
 
-<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/media/cost-management-allocation/tags.png" alt="Architectural approaches for cost management and allocation in a multitenant solution" width="550"/>
+<img src="https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/media/cost-management-allocation/tags.png" alt="Architectural approaches for cost management and allocation in a multitenant solution" width="650"/>
 
 **Official Modules:**
 - [Describe cost management in Azure](https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/)
@@ -131,8 +130,18 @@
 
 ---
 
+## Final Project
+
+<img src="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/multilayered-protection-azure-vm-architecture-diagram.svg" width="650"/>
+
+- Secure network access to your Azure VM by following the above architecture design. 
+- More details can be found [here](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/multilayered-protection-azure-vm)
+
+---
+
 ## Final Reviews
 
+- Read through each week's Q&A section to refresh your skills.
 - Reasses your knowledge on the [Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#review-the-skills-measured-as-of-january-23-2024)
 - Review the [Exam Policy](https://learn.microsoft.com/en-us/credentials/support/exam-duration-exam-experience)
 - Try the [Exam Sandbox](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900#exam-sandbox)
